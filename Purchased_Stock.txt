@@ -1,0 +1,6 @@
+January :500
+February :200
+March :150
+April :200
+May :350
+June :200

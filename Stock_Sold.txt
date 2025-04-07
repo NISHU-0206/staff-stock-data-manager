@@ -1,0 +1,6 @@
+January :450
+February :150
+March :130
+April :190
+May :300
+June :180
